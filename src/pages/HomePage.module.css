@@ -1,0 +1,27 @@
+.amountSection,
+.baseCurrencySection {
+  display: flex;
+  align-items: center;
+  padding: 1rem 0.5rem;
+}
+
+.targetFields {
+  margin: 1rem auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 15rem;
+}
+.targetFields:hover {
+  background-color: rgb(228, 228, 228);
+}
+.targetCurrencySection {
+  padding: 1rem 0.5rem;
+}
+
+.footerNote {
+  font-size: 16pt;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}

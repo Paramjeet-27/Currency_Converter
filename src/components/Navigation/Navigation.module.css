@@ -1,0 +1,23 @@
+.branding {
+  margin-left: -20%;
+  padding: 0.5rem;
+  color: blueviolet;
+  font-weight: 900;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 110%;
+}
+
+.navBar {
+  border-bottom: double 5px black;
+}
+
+.forgotPasswordLink {
+  margin: 1rem 0rem;
+  color: blue;
+}
+.forgotPasswordLink:hover {
+  cursor: pointer;
+  text-decoration: underline blue;
+}
